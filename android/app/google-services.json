@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "147076086914",
+    "firebase_url": "https://driver-8510e.firebaseio.com",
+    "project_id": "driver-8510e",
+    "storage_bucket": "driver-8510e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:147076086914:android:626bd6e857f8e6ac5cc89b",
+        "android_client_info": {
+          "package_name": "ru.transportida.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "147076086914-pkb3mp7ujik4jh7a6c8ajf9gvu9ecrad.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ru.transportida.driver",
+            "certificate_hash": "3e3094d357bdd36bb7d1a91d1c4658c5a91fa0a2"
+          }
+        },
+        {
+          "client_id": "147076086914-ejq8ksrdt0res8ecbbqrmga1f3uqhl8f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe8xFzUtWVgkFGzWqtl0ULtbMkh2OlINg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "147076086914-ejq8ksrdt0res8ecbbqrmga1f3uqhl8f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
