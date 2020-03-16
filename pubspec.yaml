@@ -1,5 +1,5 @@
 name: driver
-description: Driver app for transportida.ru
+description: Driver app for transportida.ru 
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -22,6 +22,8 @@ dependencies:
   firebase_auth: 0.15.4
   provider: 4.0.4
   international_phone_input: ^1.0.3
+  animated_text_kit: ^2.0.0
+  loading_overlay: ^0.2.0 
 
 
   flutter:
