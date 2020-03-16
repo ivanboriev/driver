@@ -4,7 +4,7 @@ class User {
   final String uid;
   final String phone;
   final bool hasTransport;
-  final Timestamp created;
+  final DateTime created;
   final double balance;
 
   User({this.uid, this.phone, this.created, this.balance, this.hasTransport});
